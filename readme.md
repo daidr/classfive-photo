@@ -1,6 +1,6 @@
 # 五班照片集
 
-> 本照片集目前由 [戴兜](https://github.com/dxz2002 "戴兜") 维护，公开仓库地址：https://github.com/dxz2002/classfive-photo
+> 本照片集目前由 [戴兜](https://github.com/daidr "戴兜") 维护，公开仓库地址：https://github.com/daidr/classfive-photo
 
 > 照片集内包含班级初一至初三的大部分照片。班内同学需要请自取。
 
@@ -14,4 +14,4 @@
 | :------ | :--------------------------------: |
 | 贺骕 | ~~未公布联系方式~~ |
 | 虞布 | ~~未公布联系方式~~ |
-| 戴兜 | [E-Mail](mailto://daidou@daidou.pw "daidou@daidou.pw") / [Telegram](https://t.me/DaiDR "@DaiDR") / [Blog](https://daidr.me "戴兜的小屋") / Discord(#8166) |
+| 戴兜 | [E-Mail](mailto://daidr@daidr.me "daidr@daidr.me") / [Telegram](https://t.me/DaiDR "@DaiDR") / [Blog](https://daidr.me "戴兜的小屋") / Discord(#8166) |
