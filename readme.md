@@ -1,10 +1,12 @@
 # 五班照片集
 
-> 本照片集托管在 [戴兜](https://github.com/dxz2002 "戴兜") 的GitHub仓库中，私密仓库地址：https://github.com/dxz2002/classfive-photo.git
+> 本照片集目前由 [戴兜](https://github.com/dxz2002 "戴兜") 维护，公开仓库地址：https://github.com/dxz2002/classfive-photo
 
-> 仓库访问需授权
+> 照片集内包含班级初一至初三的大部分照片。班内同学需要请自取。
 
-照片集内包含班级初一至初三的所有照片。班内同学需要请自取。如出现任何问题请联系 `戴兜`。照片补充请发PR。
+> 如出现任何问题请联系 `戴兜`。
+
+> 照片补充/纠错请发PR或issues。
 
 ## 感谢
 
